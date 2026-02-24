@@ -61,7 +61,7 @@ Each segment includes metrics for **Loan Count**, **Funded Amount**, and **Amoun
 The dashboard supports grade-level filtering (e.g., Grade A, B, C). When filters are applied, all KPIs and segment tables refresh dynamically to provide specific insights.
 
 ## 💡 Skills Demonstrated
-* Advanced SQL Aggregations
+* Advanced SQL
 * Financial KPI Structuring
 * Risk Segmentation & Mitigation Analysis
 * Portfolio Performance Monitoring
