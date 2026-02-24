@@ -75,3 +75,6 @@ The dashboard supports grade-level filtering (e.g., Grade A, B, C). When filters
 
 ## 📌 Outcome
 Transformed raw transactional loan data into a structured performance monitoring dashboard, providing management with clear visibility into lending activity, capital exposure, repayment efficiency, and portfolio quality distribution.
+
+## 📬 Contact
+For queries or collaboration, feel free to connect via www.linkedin.com/in/suprithcs.
